@@ -29,7 +29,7 @@ bash unicorn.sh
 ```
 
 # ScreenShots
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot.jpg)
 
 <h2>📧 Contact</h2>
 <lh3>You Want Ask About  My Tools Or Being a Business Friend
